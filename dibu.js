@@ -1,0 +1,12 @@
+document.writeln("<center><h5>建议两个都下载！！！！</h5></center>");
+document.writeln("<center>");
+document.writeln("			<a href=\"http://login.t.cn/A6Kf4Zw9\"><img src=\"http://alb-69hlv6xltsnkyz1i2n.cn-beijing.alb.aliyuncs.com/zz/1.jpg\" width=\"100%\" border=\"边框\"></a>			</center>");
+document.write("           <br \/>");
+document.writeln("            <center>");
+document.writeln("			<a href=\"http://ziyoua.lanzouq.com/s/hgsjd\"><img src=\"http://alb-69hlv6xltsnkyz1i2n.cn-beijing.alb.aliyuncs.com/zz/2.jpg\" width=\"100%\" border=\"边框\"></a>			</center>");
+document.write("           <br \/>");
+document.write("            <br \/>");
+document.write("          <br \/>");
+document.write("            <br \/>");
+document.write("            <br \/>");
+document.write("           <br \/>");
